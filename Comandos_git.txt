@@ -1,0 +1,10 @@
+Comandos utilizados para iniciar el git y subir el proyecto al repositorio
+
+git init
+git status
+git log
+git add pagina_estructura_basica
+git commit -m "se ha iniciado git"
+git branch -M main
+git remore add origen https://github.com/Neicerv/Reposotorio_U2 
+git push -u origin main
